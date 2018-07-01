@@ -2,18 +2,18 @@
   .blur-#{$i}px{
     position: relative;
     overflow: hidden;
-    z-index: 10;
+    z-index: 0;
   }
 
   .blur-#{$i}px:before{
     content: '';
     background: inherit;
-    filter: blur(#{i}px);
+    filter: blur(#{$i}px);
     position: absolute;
     top: -#{$i}px;
     right: -#{$i}px;
     bottom: -#{$i}px;
     left: -#{$i}px;
-    z-index: 0;
+    z-index: -1;
   }
 }

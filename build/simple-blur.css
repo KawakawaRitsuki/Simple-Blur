@@ -1,339 +1,339 @@
 .blur-1px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-1px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
   position: absolute;
   top: -1px;
   right: -1px;
   bottom: -1px;
   left: -1px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-2px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-2px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(2px);
+          filter: blur(2px);
   position: absolute;
   top: -2px;
   right: -2px;
   bottom: -2px;
   left: -2px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-3px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-3px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(3px);
+          filter: blur(3px);
   position: absolute;
   top: -3px;
   right: -3px;
   bottom: -3px;
   left: -3px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-4px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-4px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(4px);
+          filter: blur(4px);
   position: absolute;
   top: -4px;
   right: -4px;
   bottom: -4px;
   left: -4px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-5px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-5px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
   position: absolute;
   top: -5px;
   right: -5px;
   bottom: -5px;
   left: -5px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-6px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-6px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(6px);
+          filter: blur(6px);
   position: absolute;
   top: -6px;
   right: -6px;
   bottom: -6px;
   left: -6px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-7px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-7px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(7px);
+          filter: blur(7px);
   position: absolute;
   top: -7px;
   right: -7px;
   bottom: -7px;
   left: -7px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-8px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-8px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(8px);
+          filter: blur(8px);
   position: absolute;
   top: -8px;
   right: -8px;
   bottom: -8px;
   left: -8px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-9px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-9px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(9px);
+          filter: blur(9px);
   position: absolute;
   top: -9px;
   right: -9px;
   bottom: -9px;
   left: -9px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-10px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-10px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(10px);
+          filter: blur(10px);
   position: absolute;
   top: -10px;
   right: -10px;
   bottom: -10px;
   left: -10px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-11px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-11px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(11px);
+          filter: blur(11px);
   position: absolute;
   top: -11px;
   right: -11px;
   bottom: -11px;
   left: -11px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-12px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-12px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(12px);
+          filter: blur(12px);
   position: absolute;
   top: -12px;
   right: -12px;
   bottom: -12px;
   left: -12px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-13px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-13px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(13px);
+          filter: blur(13px);
   position: absolute;
   top: -13px;
   right: -13px;
   bottom: -13px;
   left: -13px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-14px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-14px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(14px);
+          filter: blur(14px);
   position: absolute;
   top: -14px;
   right: -14px;
   bottom: -14px;
   left: -14px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-15px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-15px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(15px);
+          filter: blur(15px);
   position: absolute;
   top: -15px;
   right: -15px;
   bottom: -15px;
   left: -15px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-16px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-16px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(16px);
+          filter: blur(16px);
   position: absolute;
   top: -16px;
   right: -16px;
   bottom: -16px;
   left: -16px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-17px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-17px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(17px);
+          filter: blur(17px);
   position: absolute;
   top: -17px;
   right: -17px;
   bottom: -17px;
   left: -17px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-18px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-18px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(18px);
+          filter: blur(18px);
   position: absolute;
   top: -18px;
   right: -18px;
   bottom: -18px;
   left: -18px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-19px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-19px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(19px);
+          filter: blur(19px);
   position: absolute;
   top: -19px;
   right: -19px;
   bottom: -19px;
   left: -19px;
-  z-index: 0; }
+  z-index: -1; }
 
 .blur-20px {
   position: relative;
   overflow: hidden;
-  z-index: 10; }
+  z-index: 0; }
 
 .blur-20px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(ipx);
-          filter: blur(ipx);
+  -webkit-filter: blur(20px);
+          filter: blur(20px);
   position: absolute;
   top: -20px;
   right: -20px;
   bottom: -20px;
   left: -20px;
-  z-index: 0; }
+  z-index: -1; }
