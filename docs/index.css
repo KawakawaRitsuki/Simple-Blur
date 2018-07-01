@@ -6,7 +6,7 @@
 }
 
 .title {
-  background:url(/sky.jpg) center;
+  background:url(sky.jpg) center;
   background-size: cover;
   width: 100vw;
   height: 100vh;
@@ -73,7 +73,7 @@ h2 {
 }
 
 .box {
-  background:url(/sky.jpg) center;
+  background:url(sky.jpg) center;
   background-size: cover;
   width: 15vw;
   height: 5vw;
