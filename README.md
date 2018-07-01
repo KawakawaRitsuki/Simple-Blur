@@ -16,6 +16,6 @@
 ## Build
 
 ```sh
-$ yarn // or $ npm i
-$ npx gulp
+yarn // or $ npm i
+npx gulp
 ```
