@@ -10,10 +10,10 @@
     background: inherit;
     filter: blur(#{$i}px);
     position: absolute;
-    top: -#{$i}px;
-    right: -#{$i}px;
-    bottom: -#{$i}px;
-    left: -#{$i}px;
+    top: $i * -2px;
+    right: $i * -2px;
+    bottom: $i * -2px;
+    left: $i * -2px;
     z-index: -1;
   }
 }
