@@ -5,6 +5,7 @@
 > .blur-<1-20>px
 
 ```HTML
+<body>
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kawakawaritsuki/simple-blur.css@latest/dist/simple-blur.css">
 </head>
@@ -15,7 +16,7 @@
 
 ## Build
 
-```sh
-yarn // or $ npm i
-npx gulp
+```console
+$ yarn // or $ npm i
+$ npx gulp
 ```
