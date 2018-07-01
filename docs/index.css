@@ -63,3 +63,25 @@ h2 {
   color: #FFF;
   line-height:1em;
 }
+
+.container {
+  margin: 3vh auto;
+  width: 80vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.box {
+  background:url(/sky.jpg) center;
+  background-size: cover;
+  width: 15vw;
+  height: 5vw;
+  margin: 2.5vw;
+  font-size: 5vw;
+  line-height: 1em;
+  padding: 5vw 0;
+  text-align: center;
+  color: #FFF;
+  flex-basis: 15vw;
+}
