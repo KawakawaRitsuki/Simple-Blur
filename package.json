@@ -10,7 +10,7 @@
     "rimraf": "^2.6.2"
   },
   "name": "simple-blur.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Ritsuki Goto",
   "license": "MIT",
