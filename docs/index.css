@@ -64,6 +64,18 @@ h2 {
   line-height:1em;
 }
 
+pre {
+  width: fit-content;
+  display: block;
+  margin: 0 auto;
+  font-size: 1.5vmin;
+  line-height:1em;
+  background: #EEE;
+  border-radius: 8px;
+  padding: 1.5vmin;
+}
+
+
 .container {
   margin: 3vh auto;
   width: 80vw;
