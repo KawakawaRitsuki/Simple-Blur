@@ -13,8 +13,16 @@ gulp.task('scss', () =>
   .pipe(gulp.dest('./dist'))
 )
 
-gulp.task('default', ['clean','scss'], () => {})
+gulp.task('scss-page', () =>
+  gulp.src('./src/index.scss')
+  .pipe($.plumber())
+  .pipe($.sass())
+  .pipe($.autoprefixer())
+  .pipe(gulp.dest('./docs/'))
+)
+
+gulp.task('default', ['clean','scss','scss-page'], () => {})
 
 gulp.task('watch', ['default'], () => {
-  gulp.watch('./src/*',['scss'])
+  gulp.watch('./src/*',['scss','scss-page'])
 })
