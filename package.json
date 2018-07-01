@@ -12,7 +12,8 @@
   "name": "simple-blur.css",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Ritsuki Goto <kawakawaritsuki.dev@gmail.com>",
+  "author": "Ritsuki Goto",
   "license": "MIT",
-  "repository": "https://github.com/KawakawaRitsuki/simple-blur.css.git"
+  "repository": "https://github.com/KawakawaRitsuki/simple-blur.css.git",
+  "description": "Simple Background Blur"
 }

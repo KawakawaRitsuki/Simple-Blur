@@ -3,14 +3,14 @@ const gulp      = require('gulp'),
   rimraf        = require('rimraf'),
   fs            = require('fs')
 
-gulp.task('clean', () => rimraf.sync('build/*'))
+gulp.task('clean', () => rimraf.sync('dist/*'))
 
 gulp.task('scss', () =>
   gulp.src('./src/simple-blur.scss')
   .pipe($.plumber())
   .pipe($.sass())
   .pipe($.autoprefixer())
-  .pipe(gulp.dest('./build'))
+  .pipe(gulp.dest('./dist'))
 )
 
 gulp.task('default', ['clean','scss'], () => {})
