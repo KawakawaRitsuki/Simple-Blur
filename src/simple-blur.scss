@@ -8,12 +8,12 @@
   .blur-#{$i}px:before{
     content: '';
     background: inherit;
-    filter: blur(5px);
+    filter: blur(#{i}px);
     position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
+    top: -#{$i}px;
+    right: -#{$i}px;
+    bottom: -#{$i}px;
+    left: -#{$i}px;
     z-index: 0;
   }
 }

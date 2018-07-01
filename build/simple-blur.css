@@ -6,13 +6,13 @@
 .blur-1px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -1px;
+  right: -1px;
+  bottom: -1px;
+  left: -1px;
   z-index: 0; }
 
 .blur-2px {
@@ -23,13 +23,13 @@
 .blur-2px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -2px;
+  right: -2px;
+  bottom: -2px;
+  left: -2px;
   z-index: 0; }
 
 .blur-3px {
@@ -40,13 +40,13 @@
 .blur-3px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -3px;
+  right: -3px;
+  bottom: -3px;
+  left: -3px;
   z-index: 0; }
 
 .blur-4px {
@@ -57,13 +57,13 @@
 .blur-4px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -4px;
+  right: -4px;
+  bottom: -4px;
+  left: -4px;
   z-index: 0; }
 
 .blur-5px {
@@ -74,13 +74,13 @@
 .blur-5px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
   top: -5px;
-  left: -5px;
   right: -5px;
   bottom: -5px;
+  left: -5px;
   z-index: 0; }
 
 .blur-6px {
@@ -91,13 +91,13 @@
 .blur-6px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -6px;
+  right: -6px;
+  bottom: -6px;
+  left: -6px;
   z-index: 0; }
 
 .blur-7px {
@@ -108,13 +108,13 @@
 .blur-7px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -7px;
+  right: -7px;
+  bottom: -7px;
+  left: -7px;
   z-index: 0; }
 
 .blur-8px {
@@ -125,13 +125,13 @@
 .blur-8px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
   z-index: 0; }
 
 .blur-9px {
@@ -142,13 +142,13 @@
 .blur-9px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -9px;
+  right: -9px;
+  bottom: -9px;
+  left: -9px;
   z-index: 0; }
 
 .blur-10px {
@@ -159,13 +159,13 @@
 .blur-10px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -10px;
+  right: -10px;
+  bottom: -10px;
+  left: -10px;
   z-index: 0; }
 
 .blur-11px {
@@ -176,13 +176,13 @@
 .blur-11px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -11px;
+  right: -11px;
+  bottom: -11px;
+  left: -11px;
   z-index: 0; }
 
 .blur-12px {
@@ -193,13 +193,13 @@
 .blur-12px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -12px;
+  right: -12px;
+  bottom: -12px;
+  left: -12px;
   z-index: 0; }
 
 .blur-13px {
@@ -210,13 +210,13 @@
 .blur-13px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -13px;
+  right: -13px;
+  bottom: -13px;
+  left: -13px;
   z-index: 0; }
 
 .blur-14px {
@@ -227,13 +227,13 @@
 .blur-14px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -14px;
+  right: -14px;
+  bottom: -14px;
+  left: -14px;
   z-index: 0; }
 
 .blur-15px {
@@ -244,13 +244,13 @@
 .blur-15px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -15px;
+  right: -15px;
+  bottom: -15px;
+  left: -15px;
   z-index: 0; }
 
 .blur-16px {
@@ -261,13 +261,13 @@
 .blur-16px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -16px;
+  right: -16px;
+  bottom: -16px;
+  left: -16px;
   z-index: 0; }
 
 .blur-17px {
@@ -278,13 +278,13 @@
 .blur-17px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -17px;
+  right: -17px;
+  bottom: -17px;
+  left: -17px;
   z-index: 0; }
 
 .blur-18px {
@@ -295,13 +295,13 @@
 .blur-18px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -18px;
+  right: -18px;
+  bottom: -18px;
+  left: -18px;
   z-index: 0; }
 
 .blur-19px {
@@ -312,13 +312,13 @@
 .blur-19px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -19px;
+  right: -19px;
+  bottom: -19px;
+  left: -19px;
   z-index: 0; }
 
 .blur-20px {
@@ -329,11 +329,11 @@
 .blur-20px:before {
   content: '';
   background: inherit;
-  -webkit-filter: blur(5px);
-          filter: blur(5px);
+  -webkit-filter: blur(ipx);
+          filter: blur(ipx);
   position: absolute;
-  top: -5px;
-  left: -5px;
-  right: -5px;
-  bottom: -5px;
+  top: -20px;
+  right: -20px;
+  bottom: -20px;
+  left: -20px;
   z-index: 0; }
